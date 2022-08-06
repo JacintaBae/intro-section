@@ -197,7 +197,7 @@ nav ul li a {
     display: none;
   }
   .dropdown:active .dropdown-content {
-    display: block;
+    display: none;
   }
   .container {
     display: flex;
