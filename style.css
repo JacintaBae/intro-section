@@ -241,6 +241,7 @@ nav ul li a {
 .nob{
   border: 1px solid black;
   background-color: rgb(221, 221, 77);
+  border-radius:5px;
 }
   .border {
    background-color: blueviolet;
